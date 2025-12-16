@@ -1,0 +1,28 @@
+body{
+    padding:2%;
+    background-image: url("pexels-thilina-alagiyawanna-3266092-23338899.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+#clock{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+   
+}
+
+#clockDetails{
+    color:rgb(255, 215, 0);
+    font-size:9.5rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
